@@ -123,7 +123,7 @@
     {
       "bytes": 10367529,
       "content": "accepted evaluator prose and parsed judgments",
-      "download_url": "https://github.com/lechmazur/writing/releases/download/benchmark-data-2026-08-23/judgments-accepted-part-0001.jsonl.zst",
+      "download_url": "releases/download/benchmark-data-2026-08-23/judgments-accepted-part-0001.jsonl.zst",
       "file_name": "judgments-accepted-part-0001.jsonl.zst",
       "records": 10000,
       "sha256": "02c74a962645f51181ae2f97f19d5cd4d2bf8dd0f4c5250ac3a03de7f2d54018"
@@ -131,7 +131,7 @@
     {
       "bytes": 10249172,
       "content": "accepted evaluator prose and parsed judgments",
-      "download_url": "https://github.com/lechmazur/writing/releases/download/benchmark-data-2026-08-23/judgments-accepted-part-0002.jsonl.zst",
+      "download_url": "releases/download/benchmark-data-2026-08-23/judgments-accepted-part-0002.jsonl.zst",
       "file_name": "judgments-accepted-part-0002.jsonl.zst",
       "records": 10000,
       "sha256": "030dd7328ab75da5d5a65505c4d6563bc098276481a80fb085e23aadb2a5ef80"
@@ -139,7 +139,7 @@
     {
       "bytes": 9533002,
       "content": "accepted evaluator prose and parsed judgments",
-      "download_url": "https://github.com/lechmazur/writing/releases/download/benchmark-data-2026-08-23/judgments-accepted-part-0003.jsonl.zst",
+      "download_url": "releases/download/benchmark-data-2026-08-23/judgments-accepted-part-0003.jsonl.zst",
       "file_name": "judgments-accepted-part-0003.jsonl.zst",
       "records": 10000,
       "sha256": "19ca69b48fa68cb7afe8770fe82393ec39b566b7898453f9d5aaebb6bc962beb"
@@ -147,7 +147,7 @@
     {
       "bytes": 9714585,
       "content": "accepted evaluator prose and parsed judgments",
-      "download_url": "https://github.com/lechmazur/writing/releases/download/benchmark-data-2026-08-23/judgments-accepted-part-0004.jsonl.zst",
+      "download_url": "releases/download/benchmark-data-2026-08-23/judgments-accepted-part-0004.jsonl.zst",
       "file_name": "judgments-accepted-part-0004.jsonl.zst",
       "records": 10000,
       "sha256": "f620b19fd4cfb543d2228711bebdea94a5d3efdb9b3d50e870c07b91972ee387"
@@ -155,7 +155,7 @@
     {
       "bytes": 9831231,
       "content": "accepted evaluator prose and parsed judgments",
-      "download_url": "https://github.com/lechmazur/writing/releases/download/benchmark-data-2026-08-23/judgments-accepted-part-0005.jsonl.zst",
+      "download_url": "releases/download/benchmark-data-2026-08-23/judgments-accepted-part-0005.jsonl.zst",
       "file_name": "judgments-accepted-part-0005.jsonl.zst",
       "records": 10000,
       "sha256": "fb9c76bf23ae4ee49efc3f1c6c1bb39f7a4472d2a288f10415d9d43820eaec18"
@@ -163,7 +163,7 @@
     {
       "bytes": 9649230,
       "content": "accepted evaluator prose and parsed judgments",
-      "download_url": "https://github.com/lechmazur/writing/releases/download/benchmark-data-2026-08-23/judgments-accepted-part-0006.jsonl.zst",
+      "download_url": "releases/download/benchmark-data-2026-08-23/judgments-accepted-part-0006.jsonl.zst",
       "file_name": "judgments-accepted-part-0006.jsonl.zst",
       "records": 10000,
       "sha256": "3a8b97ab6ed93fa4896ec72b8776605db510236c48881eed8fc9140d1d63cffe"
@@ -171,7 +171,7 @@
     {
       "bytes": 6960235,
       "content": "accepted evaluator prose and parsed judgments",
-      "download_url": "https://github.com/lechmazur/writing/releases/download/benchmark-data-2026-08-23/judgments-accepted-part-0007.jsonl.zst",
+      "download_url": "releases/download/benchmark-data-2026-08-23/judgments-accepted-part-0007.jsonl.zst",
       "file_name": "judgments-accepted-part-0007.jsonl.zst",
       "records": 7178,
       "sha256": "1640e4c88148f5bf809148577175a53f8e4664ca71cd1776a706732f9941f582"
@@ -179,7 +179,7 @@
     {
       "bytes": 117280,
       "content": "excluded, malformed, or superseded evaluator responses",
-      "download_url": "https://github.com/lechmazur/writing/releases/download/benchmark-data-2026-08-23/judgments-excluded-part-0001.jsonl.zst",
+      "download_url": "releases/download/benchmark-data-2026-08-23/judgments-excluded-part-0001.jsonl.zst",
       "file_name": "judgments-excluded-part-0001.jsonl.zst",
       "records": 163,
       "sha256": "15f443cf968518063b1786369a3a748c5d6e57b0c371a91b0501cbc1c9c449b4"
@@ -187,7 +187,7 @@
     {
       "bytes": 17981591,
       "content": "referenced story texts",
-      "download_url": "https://github.com/lechmazur/writing/releases/download/benchmark-data-2026-08-23/stories-part-0001.jsonl.zst",
+      "download_url": "releases/download/benchmark-data-2026-08-23/stories-part-0001.jsonl.zst",
       "file_name": "stories-part-0001.jsonl.zst",
       "records": 12255,
       "sha256": "43d7ef06c353b051ea67e94e85aca4920c954a970df402cf67ae29987ce4e54f"
@@ -195,7 +195,7 @@
     {
       "bytes": 63298,
       "content": "writing prompts",
-      "download_url": "https://github.com/lechmazur/writing/releases/download/benchmark-data-2026-08-23/writing-prompts-part-0001.jsonl.zst",
+      "download_url": "releases/download/benchmark-data-2026-08-23/writing-prompts-part-0001.jsonl.zst",
       "file_name": "writing-prompts-part-0001.jsonl.zst",
       "records": 400,
       "sha256": "e1bd0ddc25297e15ddfc21c049e0de7aed95f677b6c3e909b6349e6f5e717e6e"
@@ -203,15 +203,15 @@
     {
       "bytes": 1036,
       "content": "SHA-256 checksums for release data assets",
-      "download_url": "https://github.com/lechmazur/writing/releases/download/benchmark-data-2026-08-23/SHA256SUMS",
+      "download_url": "releases/download/benchmark-data-2026-08-23/SHA256SUMS",
       "file_name": "SHA256SUMS",
       "records": 0,
       "sha256": "dd6ee0ec910a9739cf4c0e56d70a4258d1d1a2cc75ed15c4d83328f1283fbc05"
     }
   ],
-  "release_repo": "lechmazur/writing",
+  "release_repo": "writing-benchmark",
   "release_tag": "benchmark-data-2026-08-23",
-  "release_url": "https://github.com/lechmazur/writing/releases/tag/benchmark-data-2026-08-23",
+  "release_url": "releases/tag/benchmark-data-2026-08-23",
   "schema_version": 1,
   "scope": {
     "bridge_coverage_groups": [
